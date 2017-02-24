@@ -1,0 +1,82 @@
+.jumbotron {
+  background-image: url("../adventure.jpg");
+  background-repeat: repeat;
+  color: green;
+  padding: 60px;
+  margin-bottom: 0px;
+}
+
+.jumbotron .glyphicon {
+  font-size: 128px;
+  color: lightgreen;
+  margin-top: 5px;
+}
+
+.jumbotron .glyphicon:hover {
+  color: lightgreen;
+}
+
+.jumbotron h1 {
+    font-size: 164px;
+}
+
+.pong2017 {
+  color: green;
+}
+
+.nostyle:hover {
+  text-decoration: none;
+  color: green;
+}
+
+.sidebar {
+  padding: 50px;
+  padding-top: 30px;
+  margin: 30px;
+  background-image: url("../adventure.jpg");
+
+
+}
+
+.sidebar a {
+  color: green;
+}
+
+.sidebar h4 {
+  color: green;
+}
+
+.container {
+  margin-left: 0px;
+  margin-top: 0px;
+}
+
+.game {
+  margin: 60px;
+  margin-left: 0px;
+  background-image: url("../adventure.jpg");
+  padding: 30px;
+}
+
+.game h4 {
+  color: #8F1C04;
+}
+
+.game h2 {
+  color: #08087A;
+}
+
+.btn {
+  font-style: calibri;
+  margin-top: 25px;
+}
+
+body {
+  background-image: url("../img/speckle.jpg");
+  background-repeat: repeat;
+}
+
+.glyphicon {
+  font-size: 24px;
+  color: #F2BC14;
+}
